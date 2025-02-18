@@ -75,3 +75,7 @@ Automate email distribution using smtplib.
 
 Upload reports to cloud storage or dashboards.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e19738e9-ef1c-4629-8f00-8beedfe7fa63)
+
